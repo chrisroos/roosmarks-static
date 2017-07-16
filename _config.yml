@@ -6,3 +6,9 @@ collections:
   bookmarks:
     output: true
     permalink: :name
+
+defaults:
+  - scope:
+      type: bookmarks
+    values:
+      layout: bookmark
