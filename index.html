@@ -3,7 +3,7 @@ layout: default
 ---
 <h1>Bookmarks</h1>
 
-{% for bookmark in site.bookmarks %}
+{% for bookmark in site.bookmarks reversed %}
   <h2>{{ bookmark.title }}</h2>
   {{ bookmark.content }}
 
