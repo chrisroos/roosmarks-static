@@ -4,7 +4,7 @@ layout: default
 <h1>Bookmarks</h1>
 
 {% for bookmark in site.bookmarks reversed %}
-  <h2>{{ bookmark.title }}</h2>
+  <h2><a href="{{ bookmark.site_url }}">{{ bookmark.title }}</a></h2>
   {{ bookmark.content }}
 
   <hr>

@@ -1,5 +1,5 @@
 ---
-url: https://www.relive.cc/
+site_url: https://www.relive.cc/
 title: Relive
 date: 2017-07-09 10:00:00
 ---

@@ -1,5 +1,5 @@
 ---
-url: http://motherfuckingwebsite.com/
+site_url: http://motherfuckingwebsite.com/
 title: Motherfucking Website
 date: 2017-07-09 09:00:00
 ---
